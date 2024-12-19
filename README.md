@@ -1,7 +1,5 @@
 # Olá, eu sou o Bruno Oliveira
 
-Sou um desenvolvedor em transição de carreira.
-
 - 🔭 Atualmente trabalhando em: [Meu Portfólio](https://github.com/Dev-BrunoOliveira/PORTFOLIO)
 - 🌱 Estou aprendendo: React, TypeScript e Node.js
 
