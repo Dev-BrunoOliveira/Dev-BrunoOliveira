@@ -1,7 +1,5 @@
 # Olá, eu sou o Bruno Oliveira
 
--  Atualmente trabalhando em: [Meu Portfólio](https://github.com/Dev-BrunoOliveira/PORTFOLIO)
-
 ### ⚙️ Minhas Estatísticas
 
 | Estatísticas do GitHub | Linguagens Mais Usadas |
