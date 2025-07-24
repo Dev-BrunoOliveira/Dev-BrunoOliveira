@@ -1,4 +1,4 @@
-# Olá, eu sou o Desemvolvedor Bruno Oliveira
+# Olá, eu sou o Desenvolvedor Bruno Oliveira
 
 | Estatísticas do GitHub | Linguagens Mais Usadas |
 |-------------------------|------------------------|
