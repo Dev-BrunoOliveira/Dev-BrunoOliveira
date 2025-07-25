@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, sou o Bruno Oliveira</h1>
 
 <p align="center">
-  🎨 Ex-tatuador apaixonado por design <br/>
+  🎨 Ex-tatuador apaixonado por Design <br/>
   💻 Front-end Developer | Estudante de ADS na FAM <br/>
   🚀 Transformando ideias em interfaces incríveis!
 </p>
