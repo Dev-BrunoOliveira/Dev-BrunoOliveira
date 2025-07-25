@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Front-end Developer | Estudante de ADS na FAM <br/>
-  🚀 Transformando ideias em interfaces incríveis!
+     Transformando ideias em interfaces incríveis!
 </p>
 
 ---
