@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou o Bruno Oliveira</h1>
+<h1 align="center"> Olá, sou o Bruno Oliveira</h1>
 
 <p align="center">
   🎨 Ex-tatuador apaixonado por design <br/>
@@ -31,6 +31,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-BrunoOliveira&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-BrunoOliveira&layout=compact&theme=radical" height="150"/>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Dev-BrunoOliveira&theme=dark&hide_border=false)
+
 </p>
 
 ---
