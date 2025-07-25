@@ -44,3 +44,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-BrunoOliveira&style=flat-square&color=blue" alt="profile views" />
 </p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Dev-BrunoOliveira&theme=radical&hide_border=false)
+
