@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, sou o Bruno Oliveira</h1>
 
 <p align="center">
-  🎨 Ex-tatuador apaixonado por Design <br/>
   💻 Front-end Developer | Estudante de ADS na FAM <br/>
   🚀 Transformando ideias em interfaces incríveis!
 </p>
@@ -31,7 +30,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-BrunoOliveira&show_icons=true&theme=radical" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-BrunoOliveira&show_icons=true&theme=radical" height="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-BrunoOliveira&layout=compact&theme=radical" height="250"/>
 </p>
 
