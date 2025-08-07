@@ -36,7 +36,7 @@
 
 ---
 
-### 🤝 Vamos conversar?
+### Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-90a623275/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:brunooliver2015@outlook.com)
 
