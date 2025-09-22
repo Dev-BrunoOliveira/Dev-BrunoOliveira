@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, sou o Bruno Oliveira</h1>
 
 <p align="center">
-  💻 Front-end Developer | Estudante de ADS na FAM <br/>
+   Front-end Developer | Estudante de ADS na FAM <br/>
      Transformando idéias e projetos em interfaces incríveis!
 </p>
 
