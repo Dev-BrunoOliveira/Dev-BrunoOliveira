@@ -33,18 +33,9 @@
 
 ### GitHub Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Dev-BrunoOliveira&show_icons=true&theme=radical" 
-  width="350"
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-BrunoOliveira&layout=compact&theme=radical" 
-  width="300"
-/>
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-BrunoOliveira&theme=radical" 
-  width="350"
-/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-BrunoOliveira&theme=radical" />
+</p>
 
 
 
