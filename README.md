@@ -17,6 +17,8 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-0F273C?style=flat&logo=mysql&logoColor=white)
+
 
 
 ---
