@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Seja muito bem-vindo ao meu perfil</h1>
+<h1 align="center">👋 Olá! Conheça um pouco mais sobre o meu trabalho </h1>
 
 <p align="center">
    <strong>Full Stack Developer</strong> | Estudante de ADS na FAM  
