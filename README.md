@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Seja bem vindo(a) ! </h1>
+<h1 align="center"> Olá! Seja bem vindo(a) ! </h1>
 
 <p align="center">
    <strong>Full Stack Developer</strong> | Estudante de ADS na FAM  
@@ -54,7 +54,7 @@
 
 ---
 
-## 📬 Vamos conversar?
+##  Vamos conversar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-oliveira-90a623275/">
