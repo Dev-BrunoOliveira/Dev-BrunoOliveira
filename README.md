@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Seja bem vindo(a) ! </h1>
+<h1 align="center"> Olá! Seja bem vindo ! </h1>
 
 <p align="center">
    <strong>Full Stack Developer</strong> | Estudante de ADS na FAM  
