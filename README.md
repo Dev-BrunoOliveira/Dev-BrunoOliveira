@@ -26,7 +26,7 @@
 
 ## ⭐ Projetos em destaque
 
-- 🎨 **[Portfolio](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)** — Meu portfólio pessoal com foco em UI, UX e projetos recentes.
+- 🎨 **[Portfolio](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)** — Meu portfólio pessoal com foco em frontend e projetos recentes.
 - 🍝 **[Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)** — Guia gastronômico SP
 - 📺 **[Netflix Clone](https://github.com/Dev-BrunoOliveira/DINAFLIX)** — Recriação moderna inspirada no design da Netflix.
 
