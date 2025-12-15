@@ -27,12 +27,12 @@
 ##  Projetos em destaque
 
 - 🎨 **[Portfolio](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)** — Meu portfólio pessoal mostrando alguns projetos recentes.
-- 🍝 **[Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)** — Guia gastronômico melhores lugares de São Paulo
+- 🍝 **[Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)** — Guia gastronômico melhores lugares de São Paulo.
 - 📺 **[Netflix Clone](https://github.com/Dev-BrunoOliveira/DINAFLIX)** — Recriação moderna inspirada no design da Netflix sem fins lucrativos.
 
 ---
 
-##  GitHub Stats
+##  📊 GitHub Stats
 
 <p align="center">
   <img 
