@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Seja bem vindo ! ao meu portfólio </h1>
+<h1 align="center"> Olá! Seja bem vindo ! ao meu perfil </h1>
 
 <p align="center">
    <strong>Full Stack Developer</strong> | Estudante de ADS na FAM  
@@ -29,9 +29,9 @@
 
 ##  Projetos em destaque
 
-- 🎨 **[Portfolio](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)** — Meu portfólio pessoal mostrando alguns projetos recentes.
-- 🍝 **[Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)** — Guia gastronômico melhores lugares de São Paulo.
-- 📺 **[Netflix Clone](https://github.com/Dev-BrunoOliveira/DINAFLIX)** — Recriação moderna inspirada no design da Netflix sem fins lucrativos.
+-  **[Portfolio](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)** — Meu portfólio pessoal mostrando alguns projetos recentes.
+-  **[Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)** — Guia gastronômico melhores lugares de São Paulo.
+-  **[Netflix Clone](https://github.com/Dev-BrunoOliveira/DINAFLIX)** — Recriação moderna inspirada no design da Netflix sem fins lucrativos.
 
 ---
 
