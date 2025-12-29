@@ -2,7 +2,7 @@
 
 <p align="center">
    <strong>Full Stack Developer</strong> | Estudante de ADS na FAM  
-   <br/>Transformando ideias em interfaces intuitivas e experiências incríveis.
+   <br/>Transformando ideias em interfaces intuitivas e experiências incríveis através da programação.
 </p>
 
 ---
