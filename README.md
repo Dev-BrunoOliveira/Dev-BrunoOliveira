@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Seja bem vindo ! </h1>
 
 <p align="center">
-   <strong>Full Stack Developer</strong> | Estudante de ADS na FAM no terceiro semestre
+   <strong>Full Stack Developer</strong> | Estudante de ADS na FAM
    <br/>Transformando ideias em interfaces intuitivas e experiências incríveis através da programação.
 </p>
 
