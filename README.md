@@ -28,13 +28,13 @@
 
 ##  Projetos em Destaque
 
-- 🔥 **[Portfólio em React + TypeScript](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)**  
+- **[Portfólio em React + TypeScript](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)**  
   Portfólio pessoal com foco em performance, UX e responsividade.
 
-- 🍽️ **[Guia de Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)**  
+- **[Guia de Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)**  
   Projeto front-end apresentando restaurantes de São Paulo por tipo de culinária.
 
-- 🎬 **[Dinaflix](https://github.com/Dev-BrunoOliveira/DINAFLIX)**  
+- **[Dinaflix](https://github.com/Dev-BrunoOliveira/DINAFLIX)**  
   Clone inspirado na Netflix, desenvolvido para estudo de layout, grid e interações em JavaScript.
 
 ---
@@ -61,7 +61,7 @@
 
 ---
 
-## 🤝 Vamos conversar?
+## Vamos conversar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-oliveira-90a623275/" target="_blank">
