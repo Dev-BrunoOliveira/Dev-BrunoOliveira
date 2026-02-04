@@ -8,7 +8,7 @@
 
 ---
 
-##  Stack & Tecnologias
+##  🔨 Stack & Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-##  Projetos em Destaque
+##  ⏳ Projetos em Destaque
 
 - **[Portfólio em React + TypeScript](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)**  
   Portfólio pessoal com foco em performance, UX e responsividade.
@@ -39,7 +39,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
