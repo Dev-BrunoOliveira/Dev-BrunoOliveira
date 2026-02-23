@@ -27,7 +27,7 @@
 
 ##   Projetos em Destaque
 
-- **[Portfólio em React + TypeScript](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)**  
+- **[Portfólio em React/TypeScript](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)**  
   Portfólio pessoal com foco em performance, UX e responsividade.
 
 - **[Guia de Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)**  
