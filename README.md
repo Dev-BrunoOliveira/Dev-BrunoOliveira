@@ -25,7 +25,7 @@
 
 ---
 
-##   💻Projetos em Destaque
+##   Projetos em Destaque
 
 - **[Portfólio em React/TypeScript](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)**  
   Portfólio pessoal com foco em performance, UX e responsividade.
