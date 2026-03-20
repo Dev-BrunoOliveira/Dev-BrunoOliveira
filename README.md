@@ -60,7 +60,7 @@
 
 ---
 
-## 📲Vamos conversar?
+## Vamos conversar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-oliveira-90a623275/" target="_blank">
