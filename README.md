@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Seja bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> • Estudante de ADS na FAM  
+  <strong>Frontend Developer</strong> • Estudante de ADS na FAM  
   <br/>
   Curto transformar ideias em <strong>interfaces intuitivas</strong> e <strong>experiências digitais funcionais</strong> através da programação.
 </p>
