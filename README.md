@@ -30,7 +30,7 @@
 - **[Portfólio](https://github.com/Dev-BrunoOliveira/TYPESCRIPT)**  
   Portfólio pessoal com foco em performance, UX e responsividade.
 
-- **[Guia de Restaurantes](https://github.com/Dev-BrunoOliveira/RESTAURANTES)**  
+- **[Guia de Restaurantes](https://github.com/Dev-BrunoOliveira/GUIA)**  
   Projeto front-end apresentando restaurantes de São Paulo por tipo de culinária.
 
 - **[Dinaflix](https://github.com/Dev-BrunoOliveira/DINAFLIX)**  
