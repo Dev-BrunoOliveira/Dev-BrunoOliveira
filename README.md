@@ -1,4 +1,4 @@
-<h1 align="center"> Seja bem-vindo ao meu GitHub</h1>
+<h1 align="center"> Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
   <strong>FullStack Developer</strong> • Estudante de ADS na FAM  
