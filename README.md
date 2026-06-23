@@ -35,8 +35,8 @@
 - **[Guia de Restaurantes](https://github.com/Dev-BrunoOliveira/GUIA)**  
   Projeto front-end apresentando restaurantes de São Paulo por tipo de culinária.
 
-- **[Dinaflix](https://github.com/Dev-BrunoOliveira/DINAFLIX)**  
-  Clone inspirado na Netflix, desenvolvido para estudo de layout, grid e interações em JavaScript.
+- **[Dinaflix](https://github.com/Dev-BrunoOliveira/DINAFLIXPREMIUM)**  
+  Clone inspirado na Netflix, desenvolvido para estudo de layout, grid e interações em React e TypeScript.
 
 ---
 
