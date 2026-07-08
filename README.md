@@ -13,7 +13,7 @@ Transformando ideias em aplicações modernas através de código, design e inte
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://portfolio-bruno-oliveiras-projects-2c1e0f9d.vercel.app/">
+  <a href="https://brunooliveira-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
