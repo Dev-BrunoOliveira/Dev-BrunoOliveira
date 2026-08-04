@@ -124,41 +124,6 @@ Landing Page desenvolvida com foco em conversão e experiência do usuário.
 
 ---
 
-# Atualmente estudando
-
-- Docker
-- Arquitetura de Software
-- Clean Code
-- Inteligência Artificial
-- Desenvolvimento Full Stack
-- Engenharia de Prompt
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-BrunoOliveira&theme=tokyonight"/>
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-BrunoOliveira&theme=tokyonight" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-BrunoOliveira&theme=tokyonight" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-BrunoOliveira&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-BrunoOliveira&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # Objetivo
 
 Desenvolver aplicações modernas, escaláveis e intuitivas que unam tecnologia, design e inteligência artificial para resolver problemas reais.
